@@ -1,6 +1,6 @@
 # React Native Monorepo Example
 
-This is an example of a monorepo setup for a React Native project. It uses [Yarn workspaces](https://classic.yarnpkg.com/en/docs/workspaces/) to manage the monorepo and [Expo](https://expo.io/) to manage the React Native project.
+This is an example of a monorepo setup for a React Native project. It uses [Yarn workspaces](https://classic.yarnpkg.com/en/docs/workspaces/) to manage the monorepo and a regular React Native project structure for the mobile app.
 
 ## Main changes from the default RN project
 

@@ -1,0 +1,12 @@
+{
+  "name": "react-native-monorepo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "repository": "https://github.com/turinglabsorg/react-native-monorepo",
+  "author": "turinglabs <sebastiano.cataudo@gmail.com>",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ]
+}

@@ -1,4 +1,6 @@
 rootProject.name = 'MonorepoApp'
+// CHANGE | This is changed to the new location of the hermes compiler
 apply from: file("../../../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
 include ':app'
+// CHANGE | This is changed to the new location of the react-native root folder
 includeBuild('../../../node_modules/@react-native/gradle-plugin')

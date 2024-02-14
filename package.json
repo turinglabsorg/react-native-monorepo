@@ -8,5 +8,8 @@
   "license": "MIT",
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "devDependencies": {
+    "tsc": "^2.0.4"
+  }
 }
